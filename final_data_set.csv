@@ -1,0 +1,733 @@
+Platform,Retweets,Likes,Country,Hour,Hashtag_1,Hashtag_2,Sentiment_Group,Part_of_Day
+Twitter,15,30, USA      ,12,Nature,Park,Positive,Afternoon
+Twitter,5,10, Canada   ,8,Traffic,Morning,Negative,Morning
+Instagram,20,40, USA        ,15,Fitness,Workout,Positive,Afternoon
+Facebook,8,15, UK       ,18,Travel,Adventure,Positive,Evening
+Instagram,12,25, Australia ,19,Cooking,Food,Neutral,Evening
+Twitter,25,50, India    ,9,Gratitude,PositiveVibes,Positive,Morning
+Facebook,10,20, Canada   ,14,RainyDays,Cozy,Positive,Afternoon
+Instagram,15,30, USA    ,19,MovieNight,MustWatch,Positive,Evening
+Twitter,30,60, USA      ,8,Politics,Debate,Negative,Morning
+Facebook,18,35, Australia ,12,Summer,BeachDays,Neutral,Afternoon
+Instagram,22,45,USA,15,Blogging,NewPost,Positive,Afternoon
+Twitter,7,15, Canada   ,10,SickDay,Health,Negative,Morning
+Facebook,12,25, UK       ,14,CityExplore,HiddenGems,Positive,Afternoon
+Instagram,28,55, USA        ,18,NewYear,FitnessGoals,Positive,Evening
+Twitter,15,30, India    ,9,Tech,Innovation,Neutral,Morning
+Facebook,20,40, USA      ,13,Reflection,Future,Positive,Afternoon
+Instagram,15,30, Canada    ,17,PetAdoption,FurryFriend,Positive,Evening
+Twitter,18,35, UK       ,0,Gaming,LateNight,Positive,Late Night
+Facebook,25,50,USA,11,AI,TechConference,Neutral,Morning
+Instagram,8,15, USA       ,15,WinterBlues,Mood,Negative,Afternoon
+Twitter,22,45, India    ,8,Reading,CoffeeTime,Positive,Morning
+Facebook,15,30,USA,13,VR,VirtualReality,Positive,Afternoon
+Instagram,30,60, USA ,16,Productivity,WorkFromHome,Positive,Evening
+Twitter,20,40, UK       ,9,Fitness,ChallengeAccepted,Positive,Morning
+Facebook,12,25, Canada  ,14,Career,Milestone,Positive,Afternoon
+Instagram,15,30, UK ,12,Brunch,Friends,Positive,Afternoon
+Facebook,25,50, India     ,16,LanguageLearning,PersonalGrowth,Positive,Evening
+Instagram,15,30, Australia ,19,Reading,QuietTime,Positive,Evening
+Twitter,22,45, USA      ,11,MentalHealth,SelfCare,Positive,Morning
+Facebook,12,25, Canada ,15,Art,PaintingInProgress,Positive,Afternoon
+Instagram,18,35, UK        ,17,RoadTrip,ScenicViews,Positive,Evening
+Twitter,15,30, India    ,18,TeaTime,Sunset,Positive,Evening
+Facebook,30,60, USA ,13,Coding,Enthusiasm,Positive,Afternoon
+Instagram,25,50,USA,9,Inspiration,Workshop,Positive,Morning
+Twitter,15,30, Canada   ,14,WinterSports,Fun,Positive,Afternoon
+Facebook,22,45, UK        ,17,FamilyTime,Weekend,Positive,Evening
+Instagram,18,35, USA ,20,Music,ConcertNight,Positive,Night
+Twitter,15,30, India    ,12,Mindfulness,Meditation,Positive,Afternoon
+Facebook,12,25, Canada ,16,Dessert,Cooking,Positive,Evening
+Instagram,30,60,USA,9,Gaming,Tournament,Positive,Morning
+Twitter,25,50, USA      ,14,Gardening,Spring,Positive,Afternoon
+Facebook,15,30, UK ,19,Birthday,Celebration,Positive,Evening
+Instagram,22,45, India ,17,Accomplished,Success,Positive,Evening
+Twitter,18,35, Canada   ,20,CozyNight,MovieTime,Positive,Night
+Facebook,15,30, USA      ,11,Art,GalleryExplore,Positive,Morning
+Instagram,12,25, UK   ,15,BookRelease,FavoriteAuthor,Positive,Afternoon
+Twitter,28,55, India    ,18,VRMeetup,VirtualReality,Positive,Evening
+Facebook,15,30, Australia ,10,Nature,Reflection,Positive,Morning
+Instagram,20,40, USA       ,19,Cooking,SpecialDinner,Positive,Evening
+Twitter,15,30, Canada   ,16,Optimism,NewWeek,Positive,Evening
+Facebook,22,45, UK         ,8,FitnessChallenge,NewBeginnings,Positive,Morning
+Instagram,18,35, USA     ,13,BikeRide,ScenicTrails,Positive,Afternoon
+Twitter,20,40, Canada     ,9,Injustice,Angry,Negative,Morning
+Instagram,15,30, USA          ,21,Fear,ThrillerMovie,Negative,Night
+Facebook,25,50, India      ,14,Sadness,NaturalDisaster,Negative,Afternoon
+Twitter,18,35, UK         ,18,Disgust,Environment,Negative,Evening
+Instagram,30,60, USA ,10,Happiness,Celebration,Positive,Morning
+Facebook,22,45, Canada    ,19,Joy,ComedyShow,Positive,Evening
+Twitter,15,30, Australia  ,8,Love,SpreadLove,Positive,Morning
+Instagram,18,35, UK           ,14,Amusement,FunTimes,Positive,Afternoon
+Facebook,25,50, Canada       ,19,Enjoyment,BookTime,Positive,Evening
+Twitter,20,40, USA       ,11,Admiration,Nature,Positive,Morning
+Instagram,15,30,USA,16,Affection,PositiveVibes,Positive,Evening
+Facebook,22,45, Australia   ,20,Awe,Breathtaking,Positive,Night
+Twitter,18,35, India      ,9,Disappointed,BadService,Negative,Morning
+Instagram,25,50, USA          ,14,Surprise,Gift,Curiosity,Afternoon
+Facebook,15,30, Canada     ,18,Acceptance,Challenges,Positive,Evening
+Twitter,22,45, UK        ,10,Adoration,PetLove,Positive,Morning
+Instagram,20,40,USA,7,Anticipation,Adventure,Curiosity,Early Morning
+Facebook,18,35, USA       ,15,BitterLesson,Growth,Negative,Afternoon
+Twitter,15,30, India     ,9,Calmness,PeacefulMind,Positive,Morning
+Instagram,25,50, UK   ,14,Confusion,DecisionMaking,Mixed,Afternoon
+Facebook,22,45, Canada    ,18,Excitement,TravelPlans,Positive,Evening
+Twitter,20,40, USA       ,11,Kindness,Humanity,Positive,Morning
+Instagram,30,60, Australia    ,16,Pride,Milestone,Positive,Evening
+Facebook,15,30, India      ,19,Shame,Injustice,Negative,Evening
+Twitter,20,40, Canada     ,9,Anger,Argument,Negative,Morning
+Instagram,15,30, USA          ,21,Fear,Unknown,Negative,Night
+Facebook,25,50, India      ,14,Sadness,Farewell,Negative,Afternoon
+Twitter,18,35, UK         ,18,Disgust,Corruption,Negative,Evening
+Instagram,30,60, UK           ,10,Happiness,NewFamilyMember,Positive,Morning
+Facebook,22,45, Canada    ,19,Joy,StandUpComedy,Positive,Evening
+Twitter,15,30, Australia  ,8,Love,SpreadLove,Positive,Morning
+Instagram,18,35, UK           ,14,Amusement,PetAntics,Positive,Afternoon
+Facebook,25,50, USA ,19,Enjoyment,Travel,Positive,Evening
+Twitter,20,40, USA        ,11,Admiration,Volunteers,Positive,Morning
+Instagram,15,30,USA,16,Affection,FamilyLove,Positive,Evening
+Facebook,22,45, Australia ,20,Awe,StarryNight,Positive,Night
+Twitter,18,35, India      ,9,Disappointed,Project,Negative,Morning
+Instagram,25,50, USA          ,14,Surprise,OldFriends,Curiosity,Afternoon
+Facebook,15,30, Canada     ,18,Acceptance,LifeJourney,Positive,Evening
+Twitter,22,45, UK         ,10,Adoration,PuppyLove,Positive,Morning
+Instagram,20,40, Australia    ,7,Anticipation,MovieRelease,Curiosity,Early Morning
+Facebook,18,35, USA       ,15,BitterExperience,CustomerService,Negative,Afternoon
+Twitter,15,30, India     ,9,Calmness,InnerPeace,Positive,Morning
+Instagram,25,50, UK   ,14,Confusion,MakingSense,Mixed,Afternoon
+Facebook,22,45, Canada ,18,Excitement,SurpriseParty,Positive,Evening
+Twitter,20,40, USA       ,11,Kindness,ActsOfKindness,Positive,Morning
+Instagram,30,60, UK            ,16,Pride,FitnessChallengeCompleted,Positive,Evening
+Facebook,15,30, India     ,19,Shame,Injustice,Negative,Evening
+Twitter,22,45, Australia ,10,Acceptance,Diversity,Positive,Morning
+Instagram,18,35, USA          ,13,Excitement,BookTime,Positive,Afternoon
+Twitter,15,30, Canada    ,17,Bitter,Unfairness,Negative,Evening
+Facebook,15,30, UK        ,18,Calmness,Mindfulness,Positive,Evening
+Instagram,30,60, USA   ,13,Confusion,LifeChoices,Mixed,Afternoon
+Twitter,25,50, India     ,16,Excitement,WeekendAdventure,Positive,Evening
+Facebook,22,45, USA       ,11,Kindness,HumanityRestored,Positive,Morning
+Instagram,12,25, Canada ,14,Pride,Accomplishments,Positive,Afternoon
+Twitter,15,30, UK        ,12,Shame,Integrity,Negative,Afternoon
+Twitter,20,40, Canada    ,15,Elation,Memories,Positive,Afternoon
+Instagram,15,30, USA      ,21,Euphoria,Victory,Positive,Night
+Facebook,25,50, India       ,14,Contentment,Nature,Positive,Afternoon
+Twitter,18,35, UK          ,18,Serenity,Meditation,Positive,Evening
+Instagram,30,60, Australia   ,10,Gratitude,Blessed,Positive,Morning
+Facebook,22,45, USA      ,19,Hope,Optimism,Positive,Evening
+Twitter,15,30, UK       ,8,Empowerment,Community,Positive,Morning
+Instagram,18,35, Canada ,14,Compassion,CharityEvent,Positive,Afternoon
+Facebook,25,50, UK          ,19,Tenderness,FamilyTime,Positive,Evening
+Twitter,20,40, Australia ,11,Arousal,Excitement,Other,Morning
+Instagram,15,30, USA  ,16,Enthusiasm,NewProject,Positive,Evening
+Facebook,22,45, India     ,18,Fulfillment,Milestone,Positive,Evening
+Twitter,18,35, UK      ,15,Reverence,History,Calm,Afternoon
+Instagram,25,50, Canada      ,9,Elation,OldFriends,Positive,Morning
+Facebook,15,30, USA ,14,Euphoria,LiveMusic,Positive,Afternoon
+Twitter,30,60, Australia ,10,Contentment,SundayMood,Positive,Morning
+Instagram,22,45, UK          ,19,Serenity,BookTime,Positive,Evening
+Facebook,15,30, India     ,8,Gratitude,Supportive,Positive,Morning
+Twitter,18,35, Canada    ,16,Hope,NewBeginnings,Positive,Evening
+Instagram,25,50,USA,11,Empowerment,PersonalGrowth,Positive,Morning
+Facebook,18,35, USA      ,14,Compassion,HolidaySupport,Positive,Afternoon
+Twitter,25,50, UK       ,19,Tenderness,CozyEvening,Positive,Evening
+Instagram,20,40, Australia ,11,Arousal,AdventureTime,Other,Morning
+Facebook,15,30, Canada    ,16,Enthusiasm,Creativity,Positive,Evening
+Twitter,22,45, India     ,18,Fulfillment,FitnessGoals,Positive,Evening
+Instagram,18,35, UK        ,15,Reverence,ArtAppreciation,Calm,Afternoon
+Facebook,25,50, USA      ,9,Elation,PersonalAchievement,Positive,Morning
+Twitter,20,40, USA      ,14,Elation,HiddenGem,Positive,Afternoon
+Instagram,15,30, UK   ,21,Euphoria,BirthdaySurprise,Positive,Night
+Facebook,25,50, India    ,13,Contentment,HomeCooking,Positive,Afternoon
+Twitter,18,35, Canada      ,18,Serenity,PeacefulMelody,Positive,Evening
+Instagram,30,60, USA ,10,Gratitude,CommunitySupport,Positive,Morning
+Facebook,22,45, Canada    ,19,Hope,BusinessVenture,Positive,Evening
+Twitter,15,30, UK       ,8,Empowerment,Mentorship,Positive,Morning
+Instagram,18,35, Australia ,14,Compassion,CommunityKindness,Positive,Afternoon
+Facebook,25,50, UK          ,19,Tenderness,LoveNote,Positive,Evening
+Twitter,20,40, India    ,9,Arousal,TravelAdventure,Other,Morning
+Instagram,15,30, USA       ,16,Enthusiasm,ArtisticProject,Positive,Evening
+Facebook,22,45, Canada    ,18,Fulfillment,HelpingOthers,Positive,Evening
+Twitter,18,35, Australia ,15,Reverence,HistoricalSite,Calm,Afternoon
+Instagram,25,50, UK           ,10,Elation,FitnessMilestone,Positive,Morning
+Facebook,15,30, USA       ,11,Euphoria,ProductLaunchSuccess,Positive,Morning
+Twitter,30,60, India    ,20,Contentment,Love,Positive,Night
+Instagram,22,45, Canada     ,18,Serenity,SunsetViews,Positive,Evening
+Facebook,15,30, Australia   ,11,Gratitude,SmallJoys,Positive,Morning
+Twitter,18,35, UK       ,16,Hope,PersonalDevelopment,Positive,Evening
+Instagram,25,50, India   ,13,Empowerment,SkillBuilding,Positive,Afternoon
+Facebook,18,35, USA      ,14,Compassion,VolunteerWork,Positive,Afternoon
+Twitter,25,50, Canada   ,19,Tenderness,PetLove,Positive,Evening
+Instagram,20,40, UK ,11,Arousal,FestivalExcitement,Other,Morning
+Facebook,15,30, Australia   ,16,Enthusiasm,HomeImprovement,Positive,Evening
+Twitter,22,45, India    ,18,Fulfillment,PuzzleChallenge,Positive,Evening
+Instagram,18,35, USA        ,15,Reverence,NatureExploration,Calm,Afternoon
+Facebook,25,50, Canada      ,9,Elation,FriendshipReunion,Positive,Morning
+Twitter,5,10, USA          ,8,Despair,Struggle,Negative,Morning
+Instagram,8,15, Canada          ,15,Grief,Loss,Negative,Afternoon
+Facebook,10,20, UK           ,21,Loneliness,Isolation,Negative,Night
+Twitter,12,25, India        ,11,Jealousy,Envy,Negative,Morning
+Instagram,7,15, Australia     ,14,Resentment,Bitterness,Negative,Afternoon
+Facebook,10,20, USA          ,16,Frustration,Obstacles,Negative,Evening
+Twitter,8,15, Canada        ,19,Boredom,LackOfInterest,Neutral,Evening
+Instagram,12,25, UK           ,9,Anxiety,Worry,Negative,Morning
+Facebook,15,30, India        ,18,Intimidation,Fear,Other,Evening
+Twitter,8,15, Australia    ,14,Helplessness,Overwhelmed,Negative,Afternoon
+Instagram,10,20, Canada        ,11,Envy,Desire,Negative,Morning
+Facebook,12,25, UK           ,16,Regret,MissedChances,Negative,Evening
+Twitter,7,15, India        ,9,Disgust,Injustice,Negative,Morning
+Instagram,10,20, USA          ,20,Despair,Hopeless,Negative,Night
+Facebook,12,25, Canada        ,15,Grief,Tears,Negative,Afternoon
+Twitter,15,30, UK            ,18,Loneliness,SeekingConnection,Negative,Evening
+Instagram,8,15, India         ,16,Jealousy,Insecurity,Negative,Evening
+Facebook,10,20, Australia    ,12,Resentment,BrokenTrust,Negative,Afternoon
+Twitter,12,25, USA          ,14,Frustration,EmotionalOutburst,Negative,Afternoon
+Instagram,7,15, Canada        ,19,Boredom,Monotony,Neutral,Evening
+Facebook,10,20, UK            ,9,Anxiety,Restlessness,Negative,Morning
+Twitter,15,30, India         ,18,Intimidation,FacingFear,Other,Evening
+Instagram,8,15, Australia    ,14,Helplessness,Struggling,Negative,Afternoon
+Facebook,10,20, Canada        ,11,Envy,Success,Negative,Morning
+Twitter,12,25, USA          ,16,Regret,PastChoices,Negative,Evening
+Instagram,7,15, UK            ,9,Disgust,Corruption,Negative,Morning
+Facebook,10,20, India         ,20,Despair,DarkDays,Negative,Night
+Twitter,12,25, Canada        ,15,Grief,EmotionalStorm,Negative,Afternoon
+Instagram,15,30, Australia     ,18,Loneliness,YearningForConnection,Negative,Evening
+Facebook,8,15, USA           ,16,Jealousy,Resentment,Negative,Evening
+Twitter,10,20, India         ,12,Resentment,Unforgiving,Negative,Afternoon
+Instagram,12,25, UK            ,14,Frustration,EmotionalOutburst,Negative,Afternoon
+Facebook,7,15, Canada        ,19,Boredom,Stagnation,Neutral,Evening
+Twitter,15,30, USA          ,10,Curiosity,Learning,Curiosity,Morning
+Instagram,7,15, Canada          ,17,Indifference,DigitalOverload,Neutral,Evening
+Facebook,10,20, UK           ,9,Confusion,LifePuzzle,Mixed,Morning
+Twitter,8,15, India        ,14,Numbness,EmotionalShield,Neutral,Afternoon
+Instagram,12,25, Australia     ,20,Melancholy,SunsetMoments,Negative,Night
+Facebook,10,20, USA          ,15,Nostalgia,MemoryLane,Mixed,Afternoon
+Twitter,12,25, Canada        ,11,Ambivalence,UncertainChoices,Mixed,Morning
+Instagram,15,30, UK           ,16,Acceptance,LifeJourney,Positive,Evening
+Facebook,10,20, India        ,13,Determination,AchieveTheImpossible,Other,Afternoon
+Twitter,12,25, Australia    ,19,Serenity,NatureRetreat,Positive,Evening
+Instagram,20,40, USA          ,8,Curiosity,KnowledgeQuest,Curiosity,Morning
+Facebook,10,20, Canada        ,16,Indifference,FloatingThroughLife,Neutral,Evening
+Twitter,15,30, UK            ,11,Confusion,ThoughtLabyrinth,Mixed,Morning
+Instagram,8,15, Australia     ,14,Numbness,StoicFacade,Neutral,Afternoon
+Facebook,12,25, India         ,19,Melancholy,WhispersInTheBreeze,Negative,Evening
+Twitter,10,20, Canada        ,15,Nostalgia,JournalMoments,Mixed,Afternoon
+Instagram,12,25, UK            ,10,Ambivalence,ConflictingFeelings,Mixed,Morning
+Facebook,15,30, Australia    ,16,Acceptance,SelfLoveJourney,Positive,Evening
+Twitter,18,35, USA          ,13,Determination,DreamsIntoReality,Other,Afternoon
+Instagram,25,50, Canada        ,19,Serenity,OceanRetreat,Positive,Evening
+Facebook,22,45, India         ,8,Curiosity,NewHorizons,Curiosity,Morning
+Twitter,9,18, UK            ,17,Indifference,DriftingThroughLife,Neutral,Evening
+Instagram,14,28, Australia    ,12,Confusion,PerplexedMind,Mixed,Afternoon
+Facebook,10,20, USA          ,15,Numbness,EmotionalShield,Neutral,Afternoon
+Twitter,13,26, Canada        ,21,Melancholy,WistfulHeart,Negative,Night
+Instagram,12,25, India         ,14,Nostalgia,YearbookMemories,Mixed,Afternoon
+Facebook,15,30, Australia    ,11,Ambivalence,ShadesOfUncertainty,Mixed,Morning
+Twitter,18,36, Canada        ,16,Acceptance,ImperfectJourney,Positive,Evening
+Instagram,20,40, UK            ,14,Determination,UnparalleledHeights,Other,Afternoon
+Facebook,25,50, USA          ,18,Serenity,NatureWhispers,Positive,Evening
+Instagram,9,18, India         ,16,Indifference,SilentObserver,Neutral,Evening
+Facebook,14,28, Australia    ,11,Confusion,ThoughtLabyrinth,Mixed,Morning
+Twitter,11,22, UK            ,14,Numbness,StoicResilience,Neutral,Afternoon
+Instagram,13,26, USA          ,20,Melancholy,BittersweetMemories,Negative,Night
+Facebook,12,25, Canada        ,15,Nostalgia,DiaryJourney,Mixed,Afternoon
+Twitter,15,30, India         ,10,Ambivalence,ConflictingEmotions,Mixed,Morning
+Instagram,18,36, Australia     ,16,Acceptance,BeautifulChaos,Positive,Evening
+Facebook,20,40, USA          ,13,Determination,ExtraordinaryPath,Other,Afternoon
+Twitter,25,50, Canada        ,19,Serenity,RaindropMelody,Positive,Evening
+Instagram,22,45, UK            ,8,Curiosity,SeekerOfKnowledge,Curiosity,Morning
+Facebook,9,18, India         ,17,Indifference,DriftingThroughLife,Neutral,Evening
+Twitter,14,28, Australia    ,12,Confusion,LabyrinthOfThoughts,Mixed,Afternoon
+Instagram,10,20, Canada        ,15,Numbness,EmotionalStorms,Neutral,Afternoon
+Facebook,13,26, UK            ,21,Melancholy,WistfulYearning,Negative,Night
+Twitter,12,25, USA          ,14,Nostalgia,PhotoAlbumStories,Mixed,Afternoon
+Instagram,15,30, Canada        ,11,Ambivalence,CrossroadsConfusion,Mixed,Morning
+Facebook,18,36, Australia    ,16,Acceptance,UnpredictableArt,Positive,Evening
+Twitter,20,40, UK            ,14,Determination,SculptingDreams,Other,Afternoon
+Instagram,25,50, USA          ,19,Serenity,MoonlitPeace,Positive,Evening
+Facebook,22,44, India         ,9,Curiosity,FearlessExplorer,Curiosity,Morning
+Instagram,10,20, Canada ,15,Numbness,EmotionalStorms,Neutral,Afternoon
+Twitter,15,30, USA ,17,Zest,CarefreeSpirit,Excitement,Evening
+Facebook,18,36, Australia ,20,Contentment,GoldenGlow,Positive,Night
+Instagram,12,24, India ,8,Hopeful,CanvasOfDreams,Positive,Morning
+Twitter,25,50, Canada ,12,Proud,BranchesOfAchievement,Positive,Afternoon
+Facebook,20,40, USA ,9,Grateful,BlossomingConnection,Positive,Morning
+Instagram,15,30, UK ,14,Empathetic,TapestryOfUnderstanding,Positive,Afternoon
+Twitter,18,36, Australia ,10,Compassionate,ShowerOfEmpathy,Positive,Morning
+Facebook,22,44, Canada ,18,Playful,DanceInTheRain,Positive,Evening
+Instagram,20,40, India ,11,FreeSpirit,PaintingTheSky,Other,Morning
+Twitter,15,30, UK ,16,Inspired,CreativePhoenix,Positive,Evening
+Facebook,12,24, USA ,7,Hopeful,SunriseOfPossibilities,Positive,Early Morning
+Instagram,25,50, Australia ,13,Confident,FootprintsOfAssuredness,Positive,Afternoon
+Twitter,13,26, Canada ,22,Serenity,MoonlitSerenade,Positive,Night
+Instagram,17,34, USA ,14,Curiosity,LabyrinthOfQuestions,Curiosity,Afternoon
+Facebook,14,28, UK ,10,Ambivalence,AutumnWaltz,Mixed,Morning
+Twitter,19,38, Australia ,19,Grateful,GuidingStar,Positive,Evening
+Instagram,16,32, India ,16,Zest,FieldsOfEnthusiasm,Excitement,Evening
+Facebook,21,42, Canada ,12,Compassionate,TearsOfEmpathy,Positive,Afternoon
+Twitter,23,46, USA ,8,Proud,ScalingPeaks,Positive,Morning
+Instagram,14,28, UK ,6,Hopeful,SeedsOfOptimism,Positive,Early Morning
+Facebook,24,48, Australia ,17,Playful,CarnivalEscapade,Positive,Evening
+Twitter,18,36, India ,14,Inspired,CloudsOfCreativity,Positive,Afternoon
+Instagram,20,40, Canada ,9,Contentment,TranquilWaters,Positive,Morning
+Facebook,16,32, USA ,21,Empathetic,LanternOfCompassion,Positive,Night
+Twitter,22,44, UK ,10,FreeSpirit,WingsOfDreams,Other,Morning
+Instagram,19,38, Australia ,18,Grateful,GoldenHues,Positive,Evening
+Facebook,23,46, Canada ,13,Confident,DanceOfLife,Positive,Afternoon
+Twitter,15,30, India ,7,Hopeful,BrighterTomorrows,Positive,Early Morning
+Instagram,25,50, USA ,15,Playful,JugglingResponsibilities,Positive,Afternoon
+Facebook,14,28, UK ,20,Inspired,TalesToTheStars,Positive,Night
+Twitter,17,34, Australia ,11,Hopeful,SailorOfDreams,Positive,Morning
+Instagram,21,42, Canada ,12,Compassionate,TearsOfEmpathy,Positive,Afternoon
+Twitter,23,46, USA ,8,Proud,ScalingPeaks,Positive,Morning
+Instagram,14,28, UK ,6,Hopeful,SeedsOfOptimism,Positive,Early Morning
+Facebook,24,48, Australia ,17,Playful,CarnivalEscapade,Positive,Evening
+Twitter,18,36, India ,14,Inspired,CloudsOfCreativity,Positive,Afternoon
+Instagram,20,40, Canada ,9,Contentment,TranquilWaters,Positive,Morning
+Facebook,16,32, USA ,21,Empathetic,LanternOfCompassion,Positive,Night
+Twitter,22,44, UK ,10,FreeSpirit,WingsOfDreams,Other,Morning
+Instagram,19,38, Australia ,18,Grateful,GoldenHues,Positive,Evening
+Facebook,23,46, Canada ,13,Confident,DanceOfLife,Positive,Afternoon
+Twitter,15,30, India ,7,Hopeful,BrighterTomorrows,Positive,Early Morning
+Instagram,25,50, USA ,15,Playful,JugglingResponsibilities,Positive,Afternoon
+Facebook,14,28, UK ,20,Inspired,TalesToTheStars,Positive,Night
+Twitter,17,34, Australia ,11,Hopeful,SailorOfDreams,Positive,Morning
+Instagram,21,42, Canada ,12,Compassionate,TearsOfEmpathy,Positive,Afternoon
+Twitter,23,46, USA ,8,Proud,ScalingPeaks,Positive,Morning
+Instagram,14,28, India ,6,Hopeful,SeedsOfOptimism,Positive,Early Morning
+Facebook,24,48, Australia ,17,Playful,CarnivalEscapade,Positive,Evening
+Instagram,8,16, Canada ,16,Despair,EchoingSilence,Negative,Evening
+Facebook,12,24, UK ,14,Bitterness,ResentmentWeb,Negative,Afternoon
+Twitter,15,30, USA ,11,Loneliness,MiragesOfConnection,Negative,Morning
+Instagram,10,20, Australia ,19,Yearning,DistantWarmth,Mixed,Evening
+Facebook,18,36, India ,2,Fearful,ImaginedHorrors,Negative,Late Night
+Twitter,14,28, UK ,13,Apprehensive,BalancingAct,Negative,Afternoon
+Instagram,22,44, Canada ,17,Overwhelmed,BouldersOfExhaustion,Mixed,Evening
+Facebook,16,32, USA ,10,Jealous,GreenEyedMonster,Negative,Morning
+Twitter,25,50, Australia ,15,Devastated,WindsOfBrokenPromises,Negative,Afternoon
+Instagram,12,24, India ,9,Frustrated,UnsolvablePuzzle,Negative,Morning
+Facebook,20,40, USA ,22,Envious,GildedPrize,Negative,Night
+Twitter,14,28, UK ,14,Dismissive,ImpenetrableWalls,Neutral,Afternoon
+Instagram,15,30, Canada ,11,Frustrated,MosaicOfDisappointment,Negative,Morning
+Facebook,18,36, Australia ,3,Loneliness,SolitaryNocturne,Negative,Late Night
+Twitter,13,26, UK ,23,Fearful,SpecterOfTheUnknown,Negative,Night
+Instagram,10,20, India ,16,Bitterness,BitterAftertaste,Negative,Evening
+Facebook,20,40, USA ,8,Overwhelmed,DrowningSoul,Mixed,Morning
+Twitter,16,32, Australia ,17,Jealous,HeartOfDiscontent,Negative,Evening
+Instagram,25,50, Canada ,14,Devastated,ShatteredTrust,Negative,Afternoon
+Facebook,14,28, UK ,12,Frustrated,SlippingThreads,Negative,Afternoon
+Twitter,20,40, USA ,19,Envious,BitterPill,Negative,Evening
+Instagram,12,24, Australia ,14,Dismissive,IndifferencePerformance,Neutral,Afternoon
+Facebook,8,16, Canada ,21,Despair,LabyrinthOfHopelessness,Negative,Night
+Twitter,15,30, UK ,10,Bitterness,IciclesOfResentment,Negative,Morning
+Instagram,18,36, USA ,18,Loneliness,StarlessSky,Negative,Evening
+Facebook,10,20, Australia ,16,Yearning,HuesOfSunset,Mixed,Evening
+Twitter,18,36, India ,3,Fearful,LurkingMonsters,Negative,Late Night
+Instagram,14,28, Canada ,10,Apprehensive,StormOfDoubt,Negative,Morning
+Facebook,22,44, USA ,15,Overwhelmed,MinotaurOfPressure,Mixed,Afternoon
+Twitter,16,32, UK ,14,Jealous,BloomingAchievements,Negative,Afternoon
+Instagram,25,50, Australia ,11,Devastated,EchoesOfShatteredDreams,Negative,Morning
+Facebook,14,28, India ,12,Frustrated,LabyrinthOfMiscommunication,Negative,Afternoon
+Twitter,20,40, USA ,22,Envious,DesireForKeys,Negative,Night
+Instagram,12,24, Australia ,14,Dismissive,IndifferencePerformance,Neutral,Afternoon
+Twitter,15,30, Canada ,11,Frustrated,MosaicOfDisappointment,Negative,Morning
+Facebook,18,36, Australia ,3,Loneliness,SolitaryNocturne,Negative,Late Night
+Instagram,28,55, USA               ,6,Awe,BreathtakingSunrise,Positive,Early Morning
+Twitter,15,30, Canada            ,10,Determination,Challenges,Other,Morning
+Facebook,22,45, UK                ,19,Nostalgia,OldMemories,Mixed,Evening
+Instagram,40,80, India              ,14,Thrill,CulturalCelebration,Excitement,Afternoon
+Twitter,18,35, Australia          ,21,Calmness,RainyDays,Positive,Night
+Facebook,25,50, USA               ,17,Overwhelmed,SupportiveCommunity,Mixed,Evening
+Instagram,30,60, France            ,12,Excitement,VacationCountdown,Positive,Afternoon
+Twitter,35,70, Brazil            ,8,Gratitude,LifeLessons,Positive,Morning
+Instagram,20,40, Japan             ,18,Bittersweet,Farewell,Mixed,Evening
+Facebook,18,35, Greece            ,15,Curiosity,AncientDiscovery,Curiosity,Afternoon
+Instagram,25,50, USA               ,16,Admiration,HandcraftedArt,Positive,Evening
+Twitter,18,35, Canada            ,19,Overjoyed,WinterWarmth,Excitement,Evening
+Instagram,30,60, UK                ,20,Inspiration,ColorfulSunset,Positive,Night
+Facebook,40,80, Australia          ,7,Motivation,FitnessGoals,Positive,Early Morning
+Twitter,22,45, India             ,8,Gratitude,MorningCoffee,Positive,Morning
+Instagram,35,70, USA               ,14,Empowerment,HikingAdventure,Positive,Afternoon
+Facebook,15,30, Canada            ,12,Amusement,PlayfulKittens,Positive,Afternoon
+Twitter,28,55, UK                ,23,Contemplation,StarryNight,Calm,Night
+Instagram,20,40, India             ,17,JoyfulReunion,Friendship,Excitement,Evening
+Facebook,30,60, Australia          ,15,Excitement,SurpriseCelebration,Positive,Afternoon
+Twitter,25,50, USA               ,11,Satisfaction,DIYProject,Positive,Morning
+Instagram,18,35, UK                ,9,Blessed,SupportiveCommunity,Positive,Morning
+Facebook,22,45, Canada            ,14,Serenity,TranquilGarden,Positive,Afternoon
+Twitter,40,80, India             ,10,Anticipation,AdventureAwaits,Curiosity,Morning
+Instagram,35,70, USA               ,18,Reflection,PersonalGrowth,Calm,Evening
+Facebook,20,40, Australia          ,21,Nostalgia,ChildhoodFavorites,Mixed,Night
+Twitter,28,55, UK                ,13,Appreciation,CulturalExperience,Positive,Afternoon
+Instagram,15,30, USA               ,17,Confidence,OvercomingAnxiety,Positive,Evening
+Facebook,25,50, Canada            ,19,Contentment,FamilyLaughter,Positive,Evening
+Twitter,30,60, India             ,12,Enthusiasm,SkillBuilding,Positive,Afternoon
+Instagram,18,35, UK                ,16,Surprise,HiddenGem,Curiosity,Evening
+Facebook,22,45, Australia          ,7,Accomplishment,FitnessSuccess,Positive,Early Morning
+Twitter,35,70, USA               ,18,Wonderment,DoubleRainbow,Curiosity,Evening
+Instagram,20,40, Canada            ,9,Optimism,BrightFuture,Positive,Morning
+Facebook,28,55, UK                ,14,Pride,CareerMilestone,Positive,Afternoon
+Twitter,15,30, India             ,11,Happiness,SunnyDay,Positive,Morning
+Instagram,40,80, USA               ,16,Elation,RareBookDiscovery,Positive,Evening
+Facebook,18,35, Australia          ,10,Curiosity,AncientMysteries,Curiosity,Morning
+Instagram,25,50, Brazil           ,22,Enchantment,CosmicFireflies,Curiosity,Night
+Twitter,18,35, France           ,17,Intrigue,AbstractArt,Curiosity,Evening
+Facebook,22,45, Japan            ,15,PlayfulJoy,ChildrensPlaydate,Excitement,Afternoon
+Instagram,35,70, Canada           ,8,Mindfulness,LakeTranquility,Calm,Morning
+Twitter,30,60, Australia         ,13,DreamChaser,SkyHighDreams,Other,Afternoon
+Facebook,28,55, UK               ,20,Elegance,BallroomDance,Calm,Night
+Instagram,20,40, USA             ,14,Whimsy,MagicalWorld,Mixed,Afternoon
+Twitter,18,35, Greece           ,17,Pensive,AncientCivilization,Mixed,Evening
+Facebook,22,45, Germany         ,12,Thrill,RollercoasterAdventure,Excitement,Afternoon
+Instagram,35,70, Sweden          ,19,Harmony,MusicalUnity,Positive,Evening
+Twitter,15,30, Italy           ,16,Creativity,ArtistsHaven,Positive,Evening
+Facebook,25,50, Netherlands     ,10,Radiance,SpringBlooms,Positive,Morning
+Instagram,40,80, South Africa    ,23,Wonder,StargazingAdventure,Curiosity,Night
+Twitter,18,35, Spain           ,14,Rejuvenation,SeasideEscape,Positive,Afternoon
+Facebook,28,55, Portugal        ,11,Inspiration,ForestWhispers,Positive,Morning
+Instagram,30,60, Switzerland     ,18,Coziness,WarmWinterEvening,Calm,Evening
+Facebook,22,45, Austria         ,19,Gratitude,FamilyLaughter,Positive,Evening
+Twitter,35,70, Belgium         ,20,Adventure,CulinaryJourney,Curiosity,Night
+Instagram,20,40, Denmark         ,15,Euphoria,PuzzleCompletion,Positive,Afternoon
+Facebook,18,35, Czech Republic  ,14,Awe,ArchitecturalGrandeur,Positive,Afternoon
+Instagram,25,50, Brazil           ,22,Enchantment,FireflyField,Curiosity,Night
+Twitter,18,35, France           ,17,Melodic,StreetMusic,Calm,Evening
+Facebook,22,45, Japan            ,15,FestiveJoy,SummerCarnival,Excitement,Afternoon
+Instagram,35,70, Canada           ,8,InnerJourney,MeditationBliss,Mixed,Morning
+Twitter,30,60, Australia         ,13,Freedom,CoastalAdventure,Positive,Afternoon
+Facebook,28,55, UK               ,20,Dazzle,MasqueradeElegance,Excitement,Night
+Instagram,20,40, USA             ,14,Whimsy,FairyTaleMagic,Mixed,Afternoon
+Twitter,18,35, Greece           ,17,Reflection,ForgottenEra,Calm,Evening
+Facebook,22,45, Germany         ,12,Adrenaline,RollercoasterThrills,Excitement,Afternoon
+Instagram,35,70, Sweden          ,19,Harmony,MusicalUnity,Positive,Evening
+Twitter,15,30, Italy           ,16,ArtisticBurst,StudioCreativity,Other,Evening
+Facebook,25,50, Netherlands     ,10,Radiance,SpringBlooms,Positive,Morning
+Instagram,40,80, South Africa    ,23,Wonder,StargazingAdventure,Curiosity,Night
+Twitter,18,35, Spain           ,14,Rejuvenation,SeasideEscape,Positive,Afternoon
+Facebook,28,55, Portugal        ,11,Inspiration,ForestWhispers,Positive,Morning
+Instagram,30,60, Switzerland     ,18,Coziness,WarmWinterEvening,Calm,Evening
+Facebook,22,45, Austria         ,19,Gratitude,FamilyLaughter,Positive,Evening
+Twitter,35,70, Belgium         ,20,CulinaryOdyssey,FlavorsAroundTheWorld,Curiosity,Night
+Instagram,20,40, Denmark         ,15,Euphoria,PerfectPuzzle,Positive,Afternoon
+Facebook,18,35, Czech Republic  ,14,Awe,ArchitecturalGrandeur,Positive,Afternoon
+Instagram,18,35, Australia ,10,Curiosity,AncientMysteries,Curiosity,Morning
+Twitter,22,45, Canada         ,17,Excitement,SnowfallMagic,Positive,Evening
+Instagram,28,55, France          ,12,Contentment,FreshBreadAroma,Positive,Afternoon
+Facebook,35,70, USA             ,14,Resilience,StandingTall,Positive,Afternoon
+Twitter,20,40, UK              ,19,Immersion,CaptivatingNovel,Mixed,Evening
+Instagram,25,50, India          ,21,Nostalgia,FamilyPhotoAlbum,Mixed,Night
+Facebook,30,60, Australia      ,23,Spark,InspirationIgnited,Positive,Night
+Twitter,18,35, Japan           ,8,Gratitude,WarmTea,Positive,Morning
+Instagram,22,45, Brazil          ,15,Marvel,ColorfulStreetMarket,Positive,Afternoon
+Facebook,28,55, Germany       ,18,Serenity,TranquilSunset,Positive,Evening
+Instagram,15,30, USA             ,21,Heartbreak,LostLove,Negative,Night
+Twitter,18,35, Canada          ,16,Loneliness,HeavyHeart,Negative,Evening
+Facebook,22,45, UK              ,14,Grief,LostFriendship,Negative,Afternoon
+Instagram,28,55, Australia        ,22,Despair,EndlessDarkness,Negative,Night
+Twitter,22,45, Germany         ,13,Betrayal,ShatteredTrust,Negative,Afternoon
+Facebook,25,50, Brazil          ,19,Suffering,HeartacheSymphony,Negative,Evening
+Instagram,30,60, India          ,17,EmotionalStorm,SadnessWhirlwind,Negative,Evening
+Twitter,18,35, France         ,10,Regret,HauntedPast,Negative,Morning
+Facebook,28,55, Italy         ,21,Grief,TornApart,Negative,Night
+Instagram,35,70, Japan       ,14,Isolation,EmotionalWinter,Negative,Afternoon
+Twitter,20,40, Spain        ,18,Disappointment,CrushedHopes,Negative,Evening
+Facebook,22,45, Netherlands  ,9,LostLove,PainfulEchoes,Negative,Morning
+Instagram,40,80, South Africa ,22,Despair,AbyssOfHeartache,Negative,Night
+Twitter,18,35, UK         ,23,Melancholy,QuietSerenade,Negative,Night
+Facebook,25,50, Australia   ,16,Bitterness,WoundedHeart,Negative,Evening
+Instagram,35,70, Canada     ,13,Exhaustion,CrushedSpirit,Negative,Afternoon
+Twitter,18,35, Germany     ,20,Sorrow,SymphonyOfLoss,Negative,Night
+Facebook,28,55, USA         ,18,Darkness,SoulEngulfed,Negative,Evening
+Instagram,22,45, France    ,14,Desperation,GlimmerOfHope,Negative,Afternoon
+Twitter,20,40, Brazil     ,11,Ruins,ShatteredDreams,Negative,Morning
+Twitter,20,40, Australia ,19,Desolation,ScatteredHope,Negative,Evening
+Instagram,25,50, Canada ,11,Regret,PathOfRemorse,Negative,Morning
+Facebook,18,35, USA ,21,Grief,LostJoyFootsteps,Negative,Night
+Twitter,22,45, UK ,14,Loneliness,CrashingWaves,Negative,Afternoon
+Instagram,15,30, Germany ,17,Bitterness,StainedTrust,Negative,Evening
+Facebook,28,55, Brazil ,22,Desolation,WhisperedLoss,Negative,Night
+Twitter,22,45, France ,19,Heartbreak,RippleOfDespair,Negative,Evening
+Instagram,30,60, India ,14,Grief,SilentTears,Negative,Afternoon
+Facebook,25,50, Italy ,10,Betrayal,ReverberatingPromises,Negative,Morning
+Twitter,35,70, Japan ,15,Resilience,TightropeWalk,Positive,Afternoon
+Instagram,30,60, South Africa ,20,Isolation,SilentSolitude,Negative,Night
+Twitter,18,35, Spain ,14,Regret,FadingPossibilities,Negative,Afternoon
+Facebook,28,55, Australia ,22,Despair,EndlessReverberation,Negative,Night
+Instagram,22,45, Canada ,18,Sorrow,AutumnLeaves,Negative,Evening
+Twitter,20,40, UK ,13,Desolation,ShatteredHopes,Negative,Afternoon
+Facebook,25,50, USA ,21,Grief,LostLoveLonging,Negative,Night
+Instagram,15,30, Germany ,16,Betrayal,ClosingWalls,Negative,Evening
+Twitter,22,45, Brazil ,11,Heartbreak,CalmAfterStorm,Negative,Morning
+Facebook,18,35, India ,19,Despair,UnraveledHope,Negative,Evening
+Instagram,28,55, France ,14,Loss,SilentSurrender,Negative,Afternoon
+Instagram,30,60, Japan ,22,Heartache,LoveSongLonging,Negative,Night
+Twitter,18,35, Italy ,21,Nostalgia,CherishedMemories,Mixed,Night
+Facebook,22,45, Germany ,14,Grief,MelancholicMelody,Negative,Afternoon
+Instagram,25,50, Canada ,17,Betrayal,PoisonedTrust,Negative,Evening
+Twitter,20,40, USA ,19,Despair,DeepDescent,Negative,Evening
+Facebook,28,55, France ,12,Desolation,UntoldSorrows,Negative,Afternoon
+Instagram,18,35, UK ,16,Regret,PastCurrents,Negative,Evening
+Twitter,22,45, Australia ,21,Loss,ForgottenLove,Negative,Night
+Facebook,15,30, Brazil ,13,Betrayal,ShatteredVows,Negative,Afternoon
+Instagram,30,60, Spain ,22,Solitude,ShadowConversation,Calm,Night
+Instagram,40,80, USA ,15,Joy,SimpleMoments,Positive,Afternoon
+Twitter,35,70, Canada ,18,Happiness,SpiritLifter,Positive,Evening
+Facebook,25,50, UK ,12,Contentment,InnerPeace,Positive,Afternoon
+Instagram,30,60, Australia ,14,Enthusiasm,HopefulJourney,Positive,Afternoon
+Twitter,22,45, India ,21,Gratitude,ThankfulMelody,Positive,Night
+Facebook,28,55, Germany ,17,Accomplishment,HappinessMilestone,Positive,Evening
+Instagram,18,35, France ,19,Positivity,SoulUpliftment,Positive,Evening
+Twitter,20,40, Japan ,14,Joy,CherishedMoment,Positive,Afternoon
+Facebook,25,50, Brazil ,12,Kindness,LoveStitches,Positive,Afternoon
+Instagram,30,60, South Africa ,16,Friendship,CamaraderieBlooms,Positive,Evening
+Twitter,35,70, USA ,20,Love,RhythmOfAffection,Positive,Night
+Instagram,40,80, Canada ,17,Joy,EndlessSmiles,Positive,Evening
+Facebook,30,60, UK ,14,Excitement,IgnitedSoul,Positive,Afternoon
+Twitter,25,50, Australia ,19,Surprise,WonderfulMoment,Curiosity,Evening
+Instagram,22,45, India ,12,Curiosity,TreasuresOfDiscovery,Curiosity,Afternoon
+Facebook,28,55, Germany ,21,Gratitude,ShowerOfThankfulness,Positive,Night
+Twitter,18,35, France ,16,Inspiration,BrilliantTrails,Positive,Evening
+Instagram,22,45, Japan ,22,Success,NightSkyTriumph,Positive,Night
+Facebook,30,60, Brazil ,19,Happiness,BoundlessLaughter,Positive,Evening
+Instagram,35,70, South Africa ,15,Thrill,WildHeartRide,Excitement,Afternoon
+Twitter,28,55, France ,17,Reflection,ParisianDreams,Calm,Evening
+Instagram,30,60, USA ,15,Enchantment,ChildhoodFantasies,Curiosity,Afternoon
+Facebook,22,45, Italy ,14,Excitement,SymphonyOfSpeed,Positive,Afternoon
+Instagram,35,70, Netherlands ,18,Joy,SpringtimeColors,Positive,Evening
+Twitter,18,35, Japan ,21,Exploration,JapaneseTraditions,Curiosity,Night
+Instagram,25,50, USA ,16,Awe,EarthsGrandeur,Positive,Evening
+Facebook,22,45, Greece ,19,Serenity,SunsetHues,Positive,Evening
+Twitter,30,60, Jordan ,13,Amazement,AncientTales,Curiosity,Afternoon
+Instagram,20,40, Italy ,16,Romance,TimelessCity,Positive,Evening
+Facebook,28,55, Peru ,22,Awe,AncientCivilizations,Positive,Night
+Instagram,35,70, USA ,21,Excitement,UrbanEnergy,Positive,Night
+Twitter,25,50, Italy ,17,Captivation,GladiatorTales,Curiosity,Evening
+Facebook,22,45, Maldives ,14,Serenity,ParadiseWhispers,Positive,Afternoon
+Instagram,30,60, Brazil ,16,Wonder,NatureOrchestra,Curiosity,Evening
+Twitter,18,35, China ,19,Awe,EngineeringMarvels,Positive,Evening
+Facebook,28,55, Japan ,5,Accomplishment,SunriseHues,Positive,Early Morning
+Instagram,20,40, Cambodia ,13,Exploration,KhmerStories,Curiosity,Afternoon
+Twitter,22,45, Switzerland ,14,Adventure,SnowPeakDance,Curiosity,Afternoon
+Facebook,25,50, Japan ,16,Tranquility,ZenWisdom,Positive,Evening
+Instagram,22,45, Norway ,18,Grandeur,IcyMasterpiece,Curiosity,Evening
+Instagram,40,80, USA ,20,Emotion,AdeleConcert,Mixed,Night
+Twitter,35,70, USA ,21,Energy,BeyonceConcert,Excitement,Night
+Facebook,30,60, USA ,19,Enchantment,TaylorSwift,Curiosity,Evening
+Instagram,22,45, UK ,22,Nostalgia,QueenTribute,Mixed,Night
+Twitter,18,35, UK ,19,Serenity,EdSheeranConcert,Positive,Evening
+Facebook,28,55, USA ,20,Joy,BrunoMars,Positive,Night
+Instagram,25,50, USA ,21,Celebration,MJTribute,Excitement,Night
+Twitter,22,45, USA ,18,Charm,SinatraTribute,Other,Evening
+Facebook,35,70, USA ,22,Ecstasy,MetallicaConcert,Excitement,Night
+Instagram,30,60, UK ,19,Hope,ColdplayMagic,Positive,Evening
+Instagram,40,80, Canada ,20,Enthusiasm,JustinBieber,Positive,Night
+Twitter,35,70, USA ,21,Creativity,LadyGaga,Positive,Night
+Facebook,30,60, UK ,19,Emotion,AdeleMelodies,Mixed,Evening
+Instagram,22,45, USA ,22,Colorful,KatyPerry,Other,Night
+Twitter,18,35, USA ,20,Pride,JayZAnthem,Positive,Night
+Facebook,28,55, Colombia ,21,Hypnotic,ShakiraRhythms,Curiosity,Night
+Instagram,25,50, Ireland ,19,Connection,U2Anthem,Positive,Evening
+Twitter,22,45, USA ,22,Iconic,GNRConcert,Excitement,Night
+Facebook,35,70, USA ,20,Euphoria,ArianaGrande,Positive,Night
+Instagram,30,60, Jamaica ,18,Journey,BobMarleyTribute,Excitement,Evening
+Twitter,40,80, USA ,20,Excitement,MoviePremiereThrills,Positive,Night
+Instagram,35,70, UK ,22,Nostalgia,ClassicFilmMoments,Mixed,Night
+Facebook,30,60, Canada ,19,Engagement,WebSeriesJourney,Positive,Evening
+Twitter,22,45, Australia ,21,Pride,IndieFilmSuccess,Positive,Night
+Instagram,28,55, India ,18,Touched,FamilyDramaMoments,Positive,Evening
+Facebook,18,35, USA ,20,Gratitude,OscarWinningMoment,Positive,Night
+Twitter,22,45, France ,17,Inspiration,HiddenGemDiscovery,Positive,Evening
+Instagram,28,55, Germany ,21,Contemplation,DeepMeanings,Calm,Night
+Facebook,35,70, Japan ,22,Suspense,CrimeSeriesThrills,Mixed,Night
+Twitter,22,45, Brazil ,19,Satisfaction,FulfillingEnding,Positive,Evening
+Instagram,40,80, Brazil ,21,Joy,WorldCupTriumph,Positive,Night
+Twitter,35,70, USA ,19,Inspiration,OlympicAchievement,Positive,Evening
+Facebook,30,60, India ,22,Excitement,CricketChampionship,Positive,Night
+Instagram,22,45, Kenya ,17,Admiration,MarathonRecords,Positive,Evening
+Twitter,28,55, UK ,20,Captivation,TennisRivalry,Curiosity,Night
+Facebook,18,35, USA ,21,Triumph,BasketballFinals,Excitement,Night
+Instagram,22,45, Scotland ,18,Awe,GolfVictory,Positive,Evening
+Twitter,28,55, Germany ,19,Thrill,Formula1Championship,Excitement,Evening
+Facebook,35,70, Italy ,22,Determination,CyclingChampion,Other,Night
+Instagram,22,45, Canada ,20,Heartwarming,HockeyFinalsComeback,Positive,Night
+Twitter,40,80, Brazil ,18,Disappointment,SoccerDefeats,Negative,Evening
+Instagram,35,70, USA ,21,Frustration,TennisSetback,Negative,Night
+Facebook,30,60, UK ,19,Reflection,BoxingDefeat,Calm,Evening
+Twitter,22,45, France ,22,Obstacle,CyclingFrustration,Negative,Night
+Instagram,28,55, Japan ,20,Sympathy,GymnasticsFall,Other,Night
+Facebook,18,35, USA ,18,Pressure,GolfDefeat,Negative,Evening
+Twitter,22,45, Canada ,19,RenewedEffort,BasketballStruggles,Other,Evening
+Instagram,28,55, Australia ,20,Miscalculation,SwimmingDisappointment,Negative,Night
+Facebook,35,70, Germany ,21,Challenge,WeightliftingFailure,Excitement,Night
+Twitter,22,45, Spain ,20,Despair,OwnGoal,Negative,Night
+Instagram,40,80, Canada ,19,Tranquility,SunsetBeauty,Positive,Evening
+Twitter,35,70, USA ,20,Adventure,RoadTripMemories,Curiosity,Night
+Facebook,30,60, France ,18,Solace,CafeReflection,Calm,Evening
+Instagram,22,45, Brazil ,21,Creativity,StreetArtVibes,Positive,Night
+Twitter,28,55, Germany ,16,Breakthrough,ScientificDiscovery,Positive,Evening
+Facebook,18,35, UK ,19,Harmony,OrchestraMelody,Positive,Evening
+Instagram,22,45, India ,17,JoyInBaking,HomemadeDelights,Other,Evening
+Twitter,28,55, Italy ,18,EnvisioningHistory,MuseumTales,Curiosity,Evening
+Facebook,35,70, Japan ,20,Imagination,LiteraryEscape,Curiosity,Night
+Instagram,22,45, Australia ,21,Vibrancy,MarketStories,Excitement,Night
+Twitter,40,80, USA ,22,Mesmerizing,NightDancePerformance,Curiosity,Night
+Instagram,35,70, Thailand ,19,CulinaryAdventure,StreetFoodDelights,Curiosity,Evening
+Facebook,30,60, Canada ,17,WinterMagic,SnowyLandscapes,Other,Evening
+Twitter,22,45, UK ,21,ThrillingJourney,MysteryNovel,Excitement,Night
+Instagram,28,55, Australia ,18,NaturesBeauty,FloralJoy,Curiosity,Evening
+Facebook,18,35, USA ,20,CelestialWonder,Stargazing,Curiosity,Night
+Twitter,22,45, France ,19,CreativeInspiration,CoffeeJourney,Curiosity,Evening
+Instagram,28,55, Italy ,21,RunwayCreativity,FashionInnovation,Curiosity,Night
+Facebook,22,45, Brazil ,18,OceansFreedom,SurfingThrills,Curiosity,Evening
+Twitter,35,70, Greece ,20,WhispersOfThePast,HistoricalTour,Calm,Night
+Twitter,15,30, USA,19,CrushStruggles,AvoidingEyeContact,Positive,Evening
+Instagram,18,35, Canada,21,SnackCrisis,TeenLife,Neutral,Night
+Facebook,22,45, UK,14,SelfieStruggle,TeenConfessions,Positive,Afternoon
+Twitter,20,40, USA,16,TeenProblems,LostHeadphones,Negative,Evening
+Instagram,25,50, Canada,13,StudyingMemes,TeenLife,Curiosity,Afternoon
+Facebook,20,40, USA,19,WeekendOops,TeenFashion,Neutral,Evening
+Twitter,28,55, UK,14,TeenSuccess,ProjectMiracle,Positive,Afternoon
+Instagram,22,45, Canada,21,TeenChef,CookingFail,Negative,Night
+Facebook,18,35, USA,12,ClassEvent,TeenExcitement,Curiosity,Afternoon
+Twitter,30,60, UK,23,BookDiscoveries,TeenReading,Positive,Night
+Instagram,22,45, USA,20,GameOn,TeenGamer,Positive,Night
+Facebook,35,70, Canada,15,BingeWatchDay,TeenLife,Positive,Afternoon
+Twitter,20,40, USA,18,FashionGoals,TeenStyle,Positive,Evening
+Instagram,28,55, UK,14,InstrumentLearning,TeenMusic,Negative,Afternoon
+Facebook,22,45, Canada,21,MusicTherapy,TeenPlaylist,Positive,Night
+Twitter,25,50, USA,19,CookingSuccess,TeenCook,Positive,Evening
+Instagram,18,35, UK,10,GetawayGoals,TeenTravel,Positive,Morning
+Facebook,28,55, Canada,22,MusicMagic,TeenConcert,Positive,Night
+Twitter,22,45, USA,12,ChildhoodMemories,TeenCartoons,Positive,Afternoon
+Instagram,35,70, UK,16,DIYGoals,TeenCreative,Positive,Evening
+Facebook,20,40, USA,14,CulturalDay,TeenCuriosity,Curiosity,Afternoon
+Twitter,30,60, Canada,17,BloggingJourney,TeenThoughts,Curiosity,Evening
+Instagram,35,70, USA,15,QuietMoments,BookishEscape,Positive,Afternoon
+Twitter,28,55, UK,18,AgingGracefully,Memories,Positive,Evening
+Facebook,22,45, Canada,14,ArtDiscovery,SeniorArtist,Curiosity,Afternoon
+Instagram,25,50, USA,19,HappinessInFood,SeniorLife,Positive,Evening
+Twitter,30,60, UK,12,MindEnrichment,SeniorLearning,Curiosity,Afternoon
+Facebook,18,35, Canada,21,MusicLover,SeniorConcert,Positive,Night
+Instagram,35,70, USA,15,NatureCapture,SeniorMoments,Positive,Afternoon
+Twitter,28,55, UK,11,FriendshipGoals,SeniorBonding,Positive,Morning
+Facebook,22,45, Canada,16,CherishedPlaces,SeniorTravel,Positive,Evening
+Instagram,20,40, USA,14,MusicHarmony,SeniorVoices,Positive,Afternoon
+Twitter,18,35, UK,19,MindfulLiving,SeniorCalm,Positive,Evening
+Facebook,25,50, USA,13,NatureWonders,SeniorGarden,Positive,Afternoon
+Instagram,28,55, UK,18,LifeWellLived,SeniorWine,Positive,Evening
+Twitter,22,45, Canada,16,CreativityAtAnyAge,SeniorCreativity,Positive,Evening
+Facebook,35,70, USA,20,LifetimeExperiences,SeniorMemoir,Positive,Night
+Instagram,30,60, UK,14,LifetimeAdventure,SeniorCuriosity,Curiosity,Afternoon
+Twitter,20,40, USA,17,KitchenMemories,SeniorCulinary,Positive,Evening
+Facebook,18,35, UK,22,OutdoorBeauty,SeniorClicks,Positive,Night
+Instagram,25,50, USA,16,TimelessTunes,SeniorJazz,Positive,Evening
+Twitter,28,55, UK,19,SoulfulWriting,SeniorReflections,Positive,Evening
+Instagram,30,60, USA,14,DiscoverNewPlaces,SeniorTravel,Positive,Afternoon
+Facebook,22,45, UK,18,RoadTripDownMemoryLane,SeniorCars,Positive,Evening
+Twitter,28,55, Canada,12,GardenFriends,SeniorGreenThumb,Positive,Afternoon
+Instagram,35,70, USA,17,HeartwarmingMoments,SeniorFamily,Positive,Evening
+Twitter,18,35, UK,20,DanceLife,SeniorMoves,Positive,Night
+Facebook,25,50, USA,14,CreativeExpressions,SeniorArt,Positive,Afternoon
+Instagram,22,45, UK,19,BookishTalks,SeniorBookworms,Positive,Evening
+Twitter,30,60, Canada,16,FriendshipSunshine,SeniorMemories,Positive,Evening
+Facebook,20,40, USA,22,StagePassion,SeniorTheater,Positive,Night
+Instagram,28,55, UK,14,NatureTrailBlazer,SeniorExplorer,Positive,Afternoon
+Twitter,22,45, Canada,18,LifeInPictures,SeniorExhibition,Positive,Evening
+Facebook,25,50, USA,13,OpenRoadAdventures,SeniorCycling,Positive,Afternoon
+Instagram,35,70, UK,20,AgedToPerfection,SeniorCheers,Positive,Night
+Twitter,20,40, USA,16,GracefulMoves,SeniorDance,Positive,Evening
+Facebook,28,55, Canada,19,CommunityArt,SeniorCreativity,Positive,Evening
+Instagram,30,60, USA,14,FriendshipAdventures,SeniorNostalgia,Positive,Afternoon
+Twitter,18,35, UK,22,CelestialWonders,SeniorAstronomy,Curiosity,Night
+Facebook,25,50, USA,16,TimelessTunes,SeniorJazz,Positive,Evening
+Instagram,22,45, UK,19,LifeLessons,SeniorBlog,Positive,Evening
+Twitter,30,60, Canada,17,RunForACause,SeniorSupport,Positive,Evening
+Instagram,20,40, USA,13,PhysicsSurvivor,HighSchoolAdventures,Positive,Afternoon
+Twitter,25,50, UK,14,CodingAdventure,HighSchoolCoderLife,Positive,Afternoon
+Facebook,18,35, Canada,12,DebateWarrior,HighSchoolDebater,Positive,Afternoon
+Instagram,22,45, USA,16,PhotographyClub,HighSchoolPhotographer,Positive,Evening
+Twitter,30,60, Canada,19,PromDreams,HighSchoolFairytale,Positive,Evening
+Facebook,28,55, USA,14,OutdoorClassroom,HighSchoolExplorer,Positive,Afternoon
+Instagram,22,45, UK,19,ArtisticMishaps,HighSchoolArt,Negative,Evening
+Twitter,30,60, Canada,16,SkaterLife,HighSchoolSkater,Positive,Evening
+Facebook,20,40, USA,22,KpopFangirl,HighSchoolMusic,Positive,Night
+Instagram,28,55, UK,14,ChemistryWizard,HighSchoolScientist,Positive,Afternoon
+Twitter,22,45, Canada,18,BirthdayParty,HighSchoolCelebration,Positive,Evening
+Facebook,25,50, USA,13,DramaClubStar,HighSchoolActor,Positive,Afternoon
+Instagram,35,70, UK,20,FantasyBookNerd,HighSchoolReader,Positive,Night
+Twitter,20,40, USA,16,DoodleMaster,HighSchoolArt,Positive,Evening
+Facebook,28,55, Canada,19,HandstandChallenge,HighSchoolAthlete,Positive,Evening
+Instagram,30,60, USA,14,SnackSmuggler,HighSchoolSnacks,Mixed,Afternoon
+Twitter,18,35, UK,22,SleepoverFun,HighSchoolMemories,Positive,Night
+Facebook,25,50, USA,16,DanceFail,HighSchoolTikTok,Negative,Evening
+Instagram,22,45, UK,19,SocialMediaBlunder,HighSchoolAwkward,Negative,Evening
+Twitter,30,60, Canada,17,CrushFail,HighSchoolEmbarrassment,Negative,Evening
+Instagram,15,30, USA,15,PaperPlaneExpert,HighSchoolArt,Positive,Afternoon
+Facebook,22,40, Canada,12,TextbookJuggling,HighSchoolSkills,Positive,Afternoon
+Twitter,28,55, USA,16,SnackNinja,HighSchoolSnacks,Mixed,Evening
+Instagram,20,38, UK,18,SurpriseAdventure,HighSchoolFun,Positive,Evening
+Facebook,25,50, Canada,14,RainDance,HighSchoolJoy,Positive,Afternoon
+Twitter,18,35, USA,17,TextingFail,HighSchoolAwkward,Negative,Evening
+Instagram,22,45, UK,20,MagicFail,HighSchoolMagic,Negative,Night
+Twitter,18,36, USA,16,OrigamiMaster,HighSchoolArt,Positive,Evening
+Instagram,26,48, Canada,13,HackySackChallenge,HighSchoolAthlete,Positive,Afternoon
+Facebook,20,40, USA,17,FriendshipGoals,HighSchoolMemories,Positive,Evening
+Twitter,24,42, UK,20,BurgerQuest,HighSchoolFoodie,Positive,Night
+Instagram,21,39, Canada,14,StandUpComedy,HighSchoolTalent,Positive,Afternoon
+Facebook,17,33, USA,18,LoveLetterFail,HighSchoolAwkward,Negative,Evening
+Twitter,23,44, UK,22,ScienceGeek,HighSchoolExperiments,Positive,Night
+Instagram,19,37, USA,15,FriendshipBracelets,HighSchoolCrafts,Positive,Afternoon
+Twitter,27,52, Canada,12,CartwheelChallenge,HighSchoolAthlete,Positive,Afternoon
+Facebook,22,43, UK,16,MovieNight,HighSchoolMemories,Positive,Evening
+Instagram,20,39, USA,18,HairExperiment,HighSchoolStyle,Positive,Evening
+Facebook,26,48, Canada,14,TimeCapsule,HighSchoolNostalgia,Positive,Afternoon
+Twitter,16,32, USA,17,FirstDayOops,HighSchoolEmbarrassment,Negative,Evening
+Instagram,23,42, UK,20,HealthyLiving,HighSchoolWellness,Positive,Night
+Twitter,15,28, USA,15,SchoolChallenges,HighSchoolStruggles,Negative,Afternoon
+Instagram,18,36, Canada,12,OnlineHate,HighSchoolReality,Negative,Afternoon
+Facebook,20,40, UK,16,BadDay,HighSchoolBlues,Negative,Evening
+Twitter,17,34, USA,18,Disappointment,HighSchoolSports,Negative,Evening
+Instagram,21,41, Canada,14,CafeteriaDrama,HighSchoolTension,Negative,Afternoon
+Facebook,19,38, UK,17,AcademicFrustration,HighSchoolStress,Negative,Evening
+Twitter,22,44, USA,20,LifeChallenges,HighSchoolStruggles,Negative,Night
+Instagram,16,31, Canada,22,LonelyNights,HighSchoolEmotions,Negative,Night
+Facebook,14,27, UK,15,StopCyberbullying,HighSchoolReality,Negative,Afternoon
+Twitter,18,35, USA,12,BadLuck,HighSchoolWeather,Negative,Afternoon
+Instagram,20,39, Canada,16,MissedChances,HighSchoolRegret,Negative,Evening
+Facebook,23,46, UK,18,RumorMills,HighSchoolDrama,Negative,Evening
+Twitter,25,50, USA,14,BadLuckDay,HighSchoolStruggles,Negative,Afternoon
+Instagram,21,42, Canada,17,SayingGoodbye,HighSchoolEmotions,Negative,Evening
+Facebook,19,37, UK,20,CollegeDreams,HighSchoolJourney,Negative,Night
+Twitter,16,32, USA,14,OnlineGaming,HighSchoolGamer,Negative,Afternoon
+Instagram,18,36, Canada,17,BadHairDay,HighSchoolConfidence,Negative,Evening
+Facebook,21,41, UK,22,ProjectStruggles,HighSchoolHardships,Negative,Night
+Twitter,24,48, USA,15,OnlineOpinions,HighSchoolCriticism,Negative,Afternoon
+Instagram,22,43, Canada,18,TechIssues,HighSchoolTech,Negative,Evening
+Facebook,20,39, UK,14,MissedMoments,HighSchoolRegret,Negative,Afternoon
+Instagram,23,42, USA,16,StudyStrategies,HighSchoolExams,Neutral,Evening
+Twitter,26,50, Canada,12,EnvironmentalEfforts,HighSchoolCommunity,Neutral,Afternoon
+Facebook,19,38, UK,18,BookClub,HighSchoolReads,Neutral,Evening
+Instagram,21,43, USA,14,BakingAdventures,HighSchoolBakes,Neutral,Afternoon
+Twitter,18,36, Canada,17,Teamwork,HighSchoolProjects,Neutral,Evening
+Instagram,22,45, UK,20,SchoolClubs,HighSchoolInterests,Neutral,Night
+Facebook,24,48, USA,15,CareerDevelopment,HighSchoolJobs,Neutral,Afternoon
+Twitter,20,40, Canada,22,SchoolEvents,HighSchoolConnectivity,Neutral,Night
+Instagram,25,49, UK,14,PhotographyJourney,HighSchoolHobbies,Neutral,Afternoon
+Facebook,19,37, USA,16,ScienceFair,HighSchoolScience,Neutral,Evening
+Twitter,23,44, Canada,18,EfficiencyGoals,HighSchoolSkills,Neutral,Evening
+Instagram,20,39, UK,12,CommunityService,HighSchoolVolunteer,Neutral,Afternoon
+Facebook,18,35, USA,17,TeamSpirit,HighSchoolProjects,Neutral,Evening
+Twitter,22,43, Canada,20,DebateSkills,HighSchoolIntellect,Neutral,Night
+Instagram,27,52, UK,15,SurpriseParty,HighSchoolCelebration,Positive,Afternoon
+Twitter,24,48, USA,12,CodingTriumph,HighSchoolTech,Positive,Afternoon
+Facebook,19,38, Canada,16,TalentShow,HighSchoolEntertainment,Positive,Evening
+Instagram,21,42, UK,18,NatureAdventures,HighSchoolFriends,Positive,Evening
+Twitter,26,50, USA,14,SportsTriumph,HighSchoolAthletics,Positive,Afternoon
+Facebook,23,45, Canada,17,GlobalFriendship,HighSchoolCorrespondence,Positive,Evening
+Instagram,22,43, UK,20,ArtCollaboration,HighSchoolCreativity,Positive,Night
+Instagram,23,44, USA,16,ArtisticExpression,HighSchoolCreativity,Positive,Evening
+Twitter,26,51, Canada,12,AthleticAchievement,HighSchoolSports,Positive,Afternoon
+Facebook,20,39, UK,18,ScienceFairWinner,HighSchoolScience,Positive,Evening
+Instagram,25,48, USA,14,SurpriseCelebration,HighSchoolFriendship,Positive,Afternoon
+Twitter,22,42, Canada,17,CommunityGiving,HighSchoolPhilanthropy,Positive,Evening
+Facebook,21,43, UK,20,CulturalCelebration,HighSchoolUnity,Positive,Night
+Instagram,24,47, USA,15,VirtualEntertainment,HighSchoolPositivity,Positive,Afternoon
